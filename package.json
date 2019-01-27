@@ -11,5 +11,8 @@
     "url": "\"https://github.com/amine178919/app.git\""
   },
   "author": "amine178919",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
