@@ -1,0 +1,7 @@
+helloo again
+git config --list --global | grep user
+  user.name=amine178919
+  user.email=drist551@gmail.com
+git config --list --local | grep user
+  user.name=amine178919
+  user.email=
